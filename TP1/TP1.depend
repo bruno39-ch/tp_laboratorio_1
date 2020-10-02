@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1599964747 source:c:\users\bruno\desktop\tsp curso\programacion c\tp numero 1\main.c
+	<stdlib.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599964747 source:c:\users\bruno\desktop\tsp curso\programacion c\tp numero 1\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1599964935 c:\users\bruno\desktop\tsp curso\programacion c\tp numero 1\funciones.h
+	<stdio.h>
+
+1599964747 source:c:\users\bruno\desktop\tsp curso\programacion c\tps 2020\tp1\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1599964935 c:\users\bruno\desktop\tsp curso\programacion c\tps 2020\tp1\funciones.h
+	<stdio.h>
+
+1599964747 source:c:\users\bruno\desktop\tsp curso\programacion c\tps 2020\tp1\main.c
+	<stdlib.h>
+	<stdlib.h>
+	"funciones.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1601674297 source:c:\users\bruno\desktop\tsp curso\programacion c\tps 2020\tp2\arrayemployees.c
+	<stdio.h>
+	"ArrayEmployees.h"
+
+1601608864 source:c:\users\bruno\desktop\tsp curso\programacion c\tps 2020\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1601605511 c:\users\bruno\desktop\tsp curso\programacion c\tps 2020\tp2\arrayemployees.h
+
